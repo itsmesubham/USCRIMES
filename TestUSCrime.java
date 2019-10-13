@@ -1,9 +1,5 @@
-/**
- * File: TestUSCrime.java
- * Author: Tuano, Antonio T.
- * Date: 08MAR19
- * Purpose: This program reads U.S. Crime Statistics file and display various data options
- */
+//Contact for assingment shubham7120k@gmail.com
+
 
 // Import Utilities
 import java.util.Scanner;
