@@ -1,9 +1,4 @@
-/**
- * File: TestUSCrime.java
- * Author: Tuano, Antonio T.
- * Date: 08MAR19
- * Purpose: This program is a US Crime Class file
- */
+//Contact for assingment shubham7120k@gmail.com
 
 public class USCrime {
 
