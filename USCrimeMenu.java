@@ -1,9 +1,4 @@
-/**
- * File: TestUSCrime.java
- * Author: Tuano, Antonio T.
- * Date: 08MAR19
- * Purpose: This program displays U.S. Crime Statistics menu
- */
+//Contact for assingment shubham7120k@gmail.com
 
 public class USCrimeMenu {
     public static String getUSCrimeMenu() {
