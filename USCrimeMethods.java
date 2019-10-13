@@ -1,9 +1,4 @@
-/**
- * File: TestUSCrime.java
- * Author: Tuano, Antonio T.
- * Date: 08MAR19
- * Purpose: This is a Class application which retrieves various US Crime statistics
- */
+//Contact for assingment shubham7120k@gmail.com
 
 
 public class USCrimeMethods {
